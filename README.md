@@ -16,3 +16,5 @@ A simple, client‑side note‑taking web application built with HTML, CSS and v
   Self‑contained: runs entirely in the browser without external libraries.
 
 ---
+
+https://nnote-taking-app.netlify.app/
